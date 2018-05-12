@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31754'
     url: http://www.gutenberg.org/2009/agents/31754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27932#History-of-the-Division-of-Medical-SciencesUnited-States-National-Museum-Bulletin-240-Contrib_
 gutenberg_issued: '2009-01-29'
 gutenberg_type: Text
 identifiers:
