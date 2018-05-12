@@ -1,0 +1,28 @@
+_repo: History-of-the-Division-of-Medical-SciencesUnited-States-National-Museum-Bulletin-240-Contrib__27932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamarneh, Sami Khalaf
+    birthdate: 1925
+    gutenberg_agent_id: '31754'
+    url: http://www.gutenberg.org/2009/agents/31754
+description: ''
+gutenberg_issued: '2009-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Museum of History and Technology (U.S.). Division of Medical Sciences'
+- !lcc 'Q'
+title: 'History of the Division of Medical Sciences
+
+  United States National Museum Bulletin 240, Contributions from the Museum of History
+  and Technology, paper 43, 1964'
+url: http://www.gutenberg.org/ebooks/27932
